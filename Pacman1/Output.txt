@@ -1,0 +1,65 @@
+Level: 1
+Map: 3
+Status: Destination reached!
+Number of steps: 35
+Time: 17.718s
+
+Level: 3
+Map: 2
+Status: No food can be found!
+Number of steps: 0
+Time: 50.516s
+
+Level: 3
+Map: 2
+Status: High cost!
+Number of steps: 24
+Time: 10.989s
+Level: 1
+Map: 3
+Status: Destination reached!
+Number of steps: 14
+Time: 6.785s
+
+Level: 1
+Map: 2
+Status: Destination reached!
+Number of steps: 1
+Time: 0.018s
+
+Level: 1
+Map: 2
+Status: Destination reached!
+Number of steps: 1
+Time: 0.018s
+
+Level: 1
+Map: 2
+Level: 1
+Map: 3
+Status: Destination reached!
+Number of steps: 35
+Time: 17.723s
+
+Level: 2
+Map: 3
+Status: Destination reached!
+Number of steps: 1
+Time: 0.017s
+
+Level: 2
+Map: 2
+Level: 1
+Map: 3
+Status: Destination reached!
+Number of steps: 35
+Time: 17.711s
+
+Level: 2
+Map: 3
+Status: Destination reached!
+Number of steps: 1
+Time: 0.02s
+
+Level: 2
+Map: 3
